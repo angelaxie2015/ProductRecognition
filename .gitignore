@@ -9,6 +9,7 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+/android/app/build
 /captures
 .externalNativeBuild
 .cxx
@@ -27,3 +28,4 @@ Thumbs.db
 bin/
 gen/
 out/
+node_modules/
